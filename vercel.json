@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "s-events-lucknow",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/design-your-event", "destination": "/custom-planner.html" },
+    { "source": "/weddings", "destination": "/weddings.html" },
+    { "source": "/sangeet-production", "destination": "/sangeet-production.html" },
+    { "source": "/decor-themes", "destination": "/decor-themes.html" },
+    { "source": "/consultation", "destination": "/consultation.html" }
+  ]
+}
